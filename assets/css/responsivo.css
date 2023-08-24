@@ -1,0 +1,58 @@
+@media (min-width: 0px) and (max-width: 798px) {
+    .header {
+        justify-content: center;
+    }
+
+    .perfil__foto {
+        max-width: 150px;
+    }
+
+    .perfil__nome {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+    .perfil__descricao {
+        font-size: 14px;
+    }
+    .section__titulo {
+        font-size: 18px;
+        margin: 10px 0;
+        text-align: center;
+        
+    }
+    .curso {
+        max-width: 320px;
+        margin: 10px 0;
+    }
+
+    .curso__titulo {
+        font-size: 18px;
+    }
+
+    .curso__descricao {
+        font-size: 14px;
+    }
+
+    .atencao {
+        padding: 3px;
+    }
+
+    #Btn {
+        left: 45vw;
+        margin-bottom: 15px;
+    }
+    .Btn {
+        width: 30px;
+        height: 30px;
+    }
+
+    .text {
+        display: none;
+    }
+}
+
+@media (min-width: 799px) and (max-width: 1024px) {
+    .header {
+        justify-content: center;
+    }
+}
